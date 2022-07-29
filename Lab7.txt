@@ -1,0 +1,15 @@
+Modelo	
+
+Ano	
+
+Caja M A Ab	
+
+Kilometraje	
+
+combustible	
+
+Impusto	mpg	
+
+tamano motor	
+
+Precio
